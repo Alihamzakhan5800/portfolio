@@ -1,0 +1,86 @@
+Portfolio of Ali Hamza Khan
+1. Introduction
+Name: Ali Hamza Khan
+Title: Software Quality Assurance (SQA) Engineer
+Location: Islamabad, Pakistan
+Professional Summary:
+Highly motivated and detail-oriented SQA Engineer with 3 years of industry experience in manual and automated testing. Proficient in Agile methodologies, API testing, and performance testing. Strong foundation in software engineering principles with a proven track record of ensuring high-quality software deliverables. Experienced in collaborating with cross-functional teams to meet project objectives.
+2. Education
+Master’s in Software Engineering
+
+Institution: Air University, Islamabad
+Year: [Year of Graduation]
+Thesis:
+Title: Scene Understanding from Drone Imagery using Semantic Segmentation
+Overview: The thesis focused on enhancing the accuracy of scene understanding in aerial imagery captured by drones. The research involved using deep learning techniques, particularly semantic segmentation, to analyze and classify different elements within a scene, such as buildings, roads, and vegetation. The goal was to improve the efficiency of processing and interpreting large volumes of drone-captured data, with potential applications in urban planning, disaster management, and surveillance.
+Technologies Used: Python, TensorFlow, Keras, OpenCV, and GIS software.
+Outcome: Developed a robust model that significantly improved the accuracy of scene segmentation in complex environments, contributing to advancements in automated aerial image analysis.
+Bachelor’s in Software Engineering
+
+Institution: SZABIST, Islamabad
+Year: [Year of Graduation]
+Final Year Project:
+Title: Deep Learning using Object Detection for Social Distancing and Mask Detection from IP Cameras
+Overview: This project was designed to address the need for automated monitoring of social distancing and mask-wearing during the COVID-19 pandemic. The system utilized IP cameras to capture live footage, which was then processed using deep learning algorithms to detect and track individuals, ensuring compliance with safety protocols.
+Technologies Used: Python, TensorFlow, OpenCV, YOLO (You Only Look Once) object detection model.
+Outcome: Successfully deployed a real-time monitoring system capable of detecting and alerting non-compliance with social distancing and mask-wearing guidelines, providing a practical solution for public safety in high-traffic areas.
+3. Certifications
+ISTQB Certified (In progress)
+Coursera Courses:
+Software Quality Assurance (SQA)
+Salesforce QA
+Salesforce Trailhead: Ongoing learning in Salesforce.
+4. Work Experience
+Software Quality Assurance Engineer
+Company: [Current or Last Employer]
+
+Duration: [Start Date] – [End Date or Present]
+
+Responsibilities:
+
+Developed and executed comprehensive test cases, test plans, and test scripts to ensure the quality of various software applications.
+Conducted API testing using Postman, verifying endpoints for functionality, performance, and security.
+Performed load and performance testing using JMeter, identifying bottlenecks and optimizing system performance.
+Collaborated closely with developers, product managers, and other stakeholders in an Agile environment to align testing strategies with project goals.
+Maintained detailed bug records using Pivotal Tracker and Trello, ensuring timely resolution of issues.
+Projects:
+
+Cyber Patrolling:
+
+Description: A cybersecurity-focused project aimed at monitoring and securing digital infrastructures. As the lead QA Engineer, I was responsible for testing the system's security features, ensuring that it could effectively detect and respond to potential threats.
+Technologies Used: Python, Selenium, OWASP ZAP for security testing.
+Outcome: Ensured the software's robustness against cyber-attacks, significantly improving its security posture before deployment.
+AUWATCH:
+
+Description: A surveillance and monitoring tool designed for real-time tracking and analysis of activities across various environments. I executed detailed test plans to validate the software's functionality, usability, and performance.
+Technologies Used: JMeter for performance testing, Postman for API testing.
+Outcome: Successfully identified and resolved critical issues, enhancing the software's reliability and user experience.
+Forcover:
+
+Description: A coverage analysis tool designed for telecommunication networks. I conducted end-to-end testing, focusing on ensuring that the tool accurately analyzed and reported network coverage data.
+Technologies Used: Python, Selenium, SQL for database validation.
+Outcome: Delivered a highly reliable and accurate tool that met all project requirements, contributing to the successful deployment of the software.
+5. Skills
+QA Tools: JMeter, Postman, Pivotal Tracker, Trello
+Programming Languages: Python
+Methodologies: Agile, Scrum
+Testing: Manual Testing, Automation Testing, API Testing, Load & Performance Testing
+Software Engineering: Requirement Analysis, Test Case Development, Bug Reporting
+6. Professional Development
+Events:
+Participated in Pakistan Cybersecurity Challenge (PCC) and International Conference on Cyber Warfare and Security (ICCWS).
+Additional Skills:
+Knowledge of cybersecurity principles, including firewalls and SIEM solutions.
+7. Projects Portfolio
+Cyber Patrolling:
+Led the QA effort, focusing on security testing to ensure the software's ability to detect and mitigate cyber threats.
+AUWATCH:
+Executed comprehensive test plans, validating the software's functionality and performance under various scenarios.
+Forcover:
+Conducted thorough end-to-end testing, ensuring the tool's accuracy in analyzing telecommunication network coverage.
+8. Contact Information
+Email: [Your Email]
+LinkedIn: [Your LinkedIn Profile]
+GitHub: [Your GitHub Profile, if applicable]
+9. References
+Available upon request.
